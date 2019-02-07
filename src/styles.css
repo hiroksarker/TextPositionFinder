@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+textarea {
+  border-radius: 4px;
+}
+
+input {
+  padding: 6px 12px;
+  border-radius: 4px;
+}

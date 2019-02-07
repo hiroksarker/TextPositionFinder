@@ -1,2 +1,0 @@
-# TextPositionFinder
-Created with CodeSandbox
